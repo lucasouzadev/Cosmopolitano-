@@ -1,0 +1,10 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+header {
+  background: linear-gradient(90deg, #007bff 60%, #0056b3 100%);
+}
+footer {
+  font-size: 0.95em;
+}
+/* Ajustes de responsividade principais estão nos arquivos HTML de cada página. */ 
