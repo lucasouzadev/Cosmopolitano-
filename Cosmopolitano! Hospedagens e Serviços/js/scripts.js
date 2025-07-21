@@ -1,1 +1,0 @@
-// Scripts personalizados para o site Cosmopolitano! 
